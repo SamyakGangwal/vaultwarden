@@ -1,3 +1,3 @@
 test file 
 
-pasword: 123456
+password: 123456
